@@ -199,6 +199,7 @@ const socialImgs = [
   {
     name: "x",
     imgPath: "/images/x.png",
+    link: "https://x.com/TanishSingh1706"
   },
   {
     name: "linkedin",
