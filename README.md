@@ -18,7 +18,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - GSAP-powered scroll interactions
 
 ## 🌐 Live Website
-[Your live link here]
+https://tanish-portfolio-833v.onrender.com/
 
 ## 👤 Author
 **Tanish Singh Thakur**
